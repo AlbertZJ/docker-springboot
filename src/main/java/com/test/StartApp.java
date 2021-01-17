@@ -18,7 +18,7 @@ public class StartApp {
 
     @RequestMapping("/")
     public String index() {
-        return "hello spring boot";
+        return "hello zengjian";
     }
 
 }
