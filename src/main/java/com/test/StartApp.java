@@ -18,7 +18,7 @@ public class StartApp {
 
     @RequestMapping("/")
     public String index() {
-        return "think zhuishu";
+        return "think zhuishu ok";
     }
 
 }
